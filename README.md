@@ -4,9 +4,9 @@
 
 <div align="center">
   <a href="https://github.com/lucaspk123">
-  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
 </div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
  
   ![Snake animation](https://github.com/lucaspk123/lucaspk123/blob/output/github-contribution-grid-snake.svg)
  
