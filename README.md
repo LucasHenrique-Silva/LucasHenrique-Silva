@@ -8,7 +8,7 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspk123&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
-
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaspk123)](https://github.com/anuraghazra/github-readme-stats)
  
   ![Snake animation](https://github.com/lucaspk123/lucaspk123/blob/output/github-contribution-grid-snake.svg)
  
