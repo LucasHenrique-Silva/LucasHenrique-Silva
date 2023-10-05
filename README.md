@@ -6,7 +6,7 @@
   <a href="https://github.com/lucaspk123">
 
 </div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaspk123&show_icons=true&theme=transparent)
  
   ![Snake animation](https://github.com/lucaspk123/lucaspk123/blob/output/github-contribution-grid-snake.svg)
  
